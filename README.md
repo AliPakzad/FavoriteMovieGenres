@@ -1,5 +1,5 @@
 # Favorite Movie Genres
-Programming Practice: Survey of Favorite Genres
+## Programming Practice: Survey of Favorite Genres
 
 In a survey, moviegoers were asked to list 3 of their favorite genres. They are given 6 different genres to choose from, including:
 
