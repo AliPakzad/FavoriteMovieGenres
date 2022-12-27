@@ -17,7 +17,7 @@ sajjad Romance History Action
 
 Example output:
 
-Action : 3  
+Action  : 3  
 Comedy : 2  
 History : 2  
 Horror : 2  
