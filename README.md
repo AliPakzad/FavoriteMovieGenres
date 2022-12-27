@@ -9,18 +9,17 @@ Write a program that takes the number of people, then takes the name of each per
 
 Example input:
 
-4
-hossein Horror Romance Comedy
-mohsen Horror Action Comedy
-mina Adventure Action History
+4  
+hossein Horror Romance Comedy  
+mohsen Horror Action Comedy  
+mina Adventure Action History  
 sajjad Romance History Action
-Sample output:
 
 Example output:
 
-Action : 3
-Comedy : 2
-History : 2
-Horror : 2
-Romance : 2
+Action : 3  
+Comedy : 2  
+History : 2  
+Horror : 2  
+Romance : 2  
 Adventure : 1
